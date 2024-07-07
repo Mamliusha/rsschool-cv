@@ -16,3 +16,16 @@ li{
 section{
     border-bottom: 1px solid black;
 }
+footer{
+    margin-top: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.course_info{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.school_logo{
+    max-width: 80px;
+}
