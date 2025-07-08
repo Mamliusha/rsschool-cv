@@ -17,11 +17,18 @@ Hi! I’m a 28-year-old aspiring web developer with a strong passion for buildin
 
 ## Work Experience
 **Junior Developer**
-Languages
-Russian Native
-English C1
-Polish B1
-Code Example
+*(Looking for first hands-on opportunity)* 
+
+---
+
+## Languages
+- **Russian** Native
+- **English** C1
+- **Polish** B1
+
+---
+
+## Code Example
 
 
 
