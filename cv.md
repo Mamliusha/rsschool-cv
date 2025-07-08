@@ -1,7 +1,7 @@
 # Saida Mamlina
 ## Frontend Developer
 📞 87078496319
-
+![Saida Mamlina](./Saida.jpg)
 ---
 
 ## About me
