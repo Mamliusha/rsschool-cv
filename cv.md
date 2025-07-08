@@ -29,6 +29,17 @@ Hi! I’m a 28-year-old aspiring web developer with a strong passion for buildin
 ---
 
 ## Code Example
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hello World!</title>
+</head>
+<body>
+  <h1>Hello, I’m learning to code!</h1>
+</body>
+</html>
 
 
 
