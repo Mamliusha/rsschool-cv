@@ -1,1 +1,2 @@
 # rsschool-cv
+https://mamliusha.github.io/rsschool-cv/cv
